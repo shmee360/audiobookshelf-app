@@ -5,7 +5,7 @@ export const state = () => ({
   serverConnectionConfig: null,
   settings: {
     mobileOrderBy: 'addedAt',
-    mobileOrderDesc: true,
+    mobileOrderDesc: false,
     mobileFilterBy: 'all',
     playbackRate: 1,
     collapseSeries: false,
